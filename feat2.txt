@@ -1,1 +1,1 @@
-Feat2: File added by feature 2
+Feat2: File added by feature2
